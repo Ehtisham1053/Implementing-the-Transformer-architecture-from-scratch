@@ -129,8 +129,6 @@ If you find any bugs or have optimization tips, feel free to open an issue or su
 
 ---
 
-## 🧾 License
-This project is released under the [MIT License](LICENSE).
 
 ---
 
